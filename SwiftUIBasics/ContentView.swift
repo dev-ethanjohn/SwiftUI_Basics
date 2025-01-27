@@ -13,7 +13,8 @@ struct ContentView: View {
 //        SShapes()
 //        SColors()
 //        SGradients()
-        SIcons()
+//        SIcons()
+        SImages()
     }
 }
 
