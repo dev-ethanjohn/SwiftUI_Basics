@@ -14,7 +14,8 @@ struct ContentView: View {
 //        SColors()
 //        SGradients()
 //        SIcons()
-        SImages()
+//        SImages()
+        SFramesAndAlignment()
     }
 }
 
