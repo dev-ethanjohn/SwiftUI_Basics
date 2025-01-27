@@ -19,7 +19,8 @@ struct ContentView: View {
 //        SBackgroundsAndOverlays()
 //        SStacks()
 //        SPadding()
-        SSpacer()
+//        SSpacer()
+        SInitsAndEnums(fruit: .orange, count: 12)
     }
 }
 
