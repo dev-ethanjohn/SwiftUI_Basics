@@ -20,7 +20,8 @@ struct ContentView: View {
 //        SStacks()
 //        SPadding()
 //        SSpacer()
-        SInitsAndEnums(fruit: .orange, count: 12)
+//        SInitsAndEnums(fruit: .orange, count: 12)
+        SForEach()
     }
 }
 
