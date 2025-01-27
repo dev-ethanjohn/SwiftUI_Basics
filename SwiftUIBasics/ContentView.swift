@@ -18,7 +18,8 @@ struct ContentView: View {
 //        SFramesAndAlignment()
 //        SBackgroundsAndOverlays()
 //        SStacks()
-        SPadding()
+//        SPadding()
+        SSpacer()
     }
 }
 
