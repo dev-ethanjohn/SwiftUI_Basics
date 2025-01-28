@@ -44,7 +44,8 @@ struct ContentView: View {
 //        SContextMenu()
 //        STextfield()
 //        STextEditor()
-        SToggle()
+//        SToggle()
+        SColorPicker()
         
         
     }
