@@ -25,7 +25,8 @@ struct ContentView: View {
 //        SScrollView()
 //        SGrids()
 //        SSafeArea()
-        SButtons()
+//        SButtons()
+        SState()
     }
 }
 
