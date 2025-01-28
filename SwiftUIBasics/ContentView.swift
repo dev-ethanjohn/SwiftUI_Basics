@@ -23,7 +23,8 @@ struct ContentView: View {
 //        SInitsAndEnums(fruit: .orange, count: 12)
 //        SForEach()
 //        SScrollView()
-        SGrids()
+//        SGrids()
+        SSafeArea()
     }
 }
 
