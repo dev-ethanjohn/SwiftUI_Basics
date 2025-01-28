@@ -46,7 +46,8 @@ struct ContentView: View {
 //        STextEditor()
 //        SToggle()
 //        SColorPicker()
-        SDatePicker()
+//        SDatePicker()
+        SStepper()
         
         
     }
