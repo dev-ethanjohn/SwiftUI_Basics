@@ -36,7 +36,8 @@ struct ContentView: View {
 //        SAnimationCurves()
 //        STransition()
 //        SSheetsAndFullScreenCover()
-        SSheetTransitionAnimationInPractice()
+//        SSheetTransitionAnimationInPractice()
+        NavigationViewAndNavigationLink()
     }
 }
 
