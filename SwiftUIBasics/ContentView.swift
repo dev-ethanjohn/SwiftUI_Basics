@@ -29,7 +29,8 @@ struct ContentView: View {
 //        SState()
 //        SSubViews()
 //        SExtractSubviews()
-        SBinding()
+//        SBinding()
+        SIfElse()
     }
 }
 
