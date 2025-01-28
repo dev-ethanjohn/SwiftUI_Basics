@@ -30,7 +30,8 @@ struct ContentView: View {
 //        SSubViews()
 //        SExtractSubviews()
 //        SBinding()
-        SIfElse()
+//        SIfElse()
+        STernary()
     }
 }
 
