@@ -33,7 +33,8 @@ struct ContentView: View {
 //        SIfElse()
 //        STernary()
 //        SAnimations()
-        SAnimationCurves()
+//        SAnimationCurves()
+        STransition()
     }
 }
 
