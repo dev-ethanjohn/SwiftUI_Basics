@@ -31,7 +31,8 @@ struct ContentView: View {
 //        SExtractSubviews()
 //        SBinding()
 //        SIfElse()
-        STernary()
+//        STernary()
+        SAnimations()
     }
 }
 
