@@ -40,7 +40,8 @@ struct ContentView: View {
 //        NavigationViewAndNavigationLink()
 //        SList()
 //        SAlert()
-        SActionSheet()
+//        SActionSheet()
+        SContextMenu()
     }
 }
 
