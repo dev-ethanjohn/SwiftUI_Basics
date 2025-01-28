@@ -32,7 +32,8 @@ struct ContentView: View {
 //        SBinding()
 //        SIfElse()
 //        STernary()
-        SAnimations()
+//        SAnimations()
+        SAnimationCurves()
     }
 }
 
