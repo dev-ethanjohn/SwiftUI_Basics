@@ -28,7 +28,8 @@ struct ContentView: View {
 //        SButtons()
 //        SState()
 //        SSubViews()
-        SExtractSubviews()
+//        SExtractSubviews()
+        SBinding()
     }
 }
 
