@@ -38,7 +38,8 @@ struct ContentView: View {
 //        SSheetsAndFullScreenCover()
 //        SSheetTransitionAnimationInPractice()
 //        NavigationViewAndNavigationLink()
-        SList()
+//        SList()
+        SAlert()
     }
 }
 
