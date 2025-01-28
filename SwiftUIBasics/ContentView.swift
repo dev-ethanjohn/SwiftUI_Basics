@@ -26,7 +26,8 @@ struct ContentView: View {
 //        SGrids()
 //        SSafeArea()
 //        SButtons()
-        SState()
+//        SState()
+        SSubViews()
     }
 }
 
