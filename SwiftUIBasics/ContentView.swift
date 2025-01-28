@@ -39,7 +39,8 @@ struct ContentView: View {
 //        SSheetTransitionAnimationInPractice()
 //        NavigationViewAndNavigationLink()
 //        SList()
-        SAlert()
+//        SAlert()
+        SActionSheet()
     }
 }
 
