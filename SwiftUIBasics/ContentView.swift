@@ -47,7 +47,9 @@ struct ContentView: View {
 //        SToggle()
 //        SColorPicker()
 //        SDatePicker()
-        SStepper()
+//        SStepper()
+        SSlider()
+        
         
         
     }
