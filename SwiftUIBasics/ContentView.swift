@@ -27,7 +27,8 @@ struct ContentView: View {
 //        SSafeArea()
 //        SButtons()
 //        SState()
-        SSubViews()
+//        SSubViews()
+        SExtractSubviews()
     }
 }
 
