@@ -34,7 +34,8 @@ struct ContentView: View {
 //        STernary()
 //        SAnimations()
 //        SAnimationCurves()
-        STransition()
+//        STransition()
+        SSheetsAndFullScreenCover()
     }
 }
 
