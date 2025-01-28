@@ -43,7 +43,9 @@ struct ContentView: View {
 //        SActionSheet()
 //        SContextMenu()
 //        STextfield()
-        STextEditor()
+//        STextEditor()
+        SToggle()
+        
         
     }
 }
