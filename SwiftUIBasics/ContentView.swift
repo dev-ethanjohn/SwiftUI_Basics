@@ -22,7 +22,8 @@ struct ContentView: View {
 //        SSpacer()
 //        SInitsAndEnums(fruit: .orange, count: 12)
 //        SForEach()
-        SScrollView()
+//        SScrollView()
+        SGrids()
     }
 }
 
