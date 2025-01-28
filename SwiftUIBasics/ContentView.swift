@@ -21,7 +21,8 @@ struct ContentView: View {
 //        SPadding()
 //        SSpacer()
 //        SInitsAndEnums(fruit: .orange, count: 12)
-        SForEach()
+//        SForEach()
+        SScrollView()
     }
 }
 
