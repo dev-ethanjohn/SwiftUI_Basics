@@ -63,7 +63,8 @@ struct ContentView: View {
 //        SBackgroundMaterials()
 //        STextSelection()
 //        SButtonStyleAndControlSize()
-        SListSwipeActions()
+//        SListSwipeActions()
+        SBadge()
         
         
         
