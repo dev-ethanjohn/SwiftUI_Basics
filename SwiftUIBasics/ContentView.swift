@@ -51,7 +51,8 @@ struct ContentView: View {
 //        SSlider()
 //        STabView()
 //        SDarkMode()
-        SOnAppearOnDisappear()
+//        SOnAppearOnDisappear()
+        SSafeUnwrapping()
         
         
         
