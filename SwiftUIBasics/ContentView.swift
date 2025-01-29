@@ -62,7 +62,8 @@ struct ContentView: View {
 //        SAsyncImage()
 //        SBackgroundMaterials()
 //        STextSelection()
-        SButtonStyleAndControlSize()
+//        SButtonStyleAndControlSize()
+        SListSwipeActions()
         
         
         
