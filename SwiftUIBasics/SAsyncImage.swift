@@ -33,7 +33,7 @@ struct SAsyncImage: View {
                     .scaledToFit()
                     .frame(width: 300, height: 300)
                     .clipShape(RoundedRectangle(cornerRadius: 40))
-            case .failure(let error):
+            case .failure:
                 Image(systemName: "questionmark")
                     .font(.largeTitle)
             default:
