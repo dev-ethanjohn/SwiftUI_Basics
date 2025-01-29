@@ -56,7 +56,8 @@ struct ContentView: View {
 //        SOnTapGesture()
 //        SModels()
 //        SStateObjectAndObservableObject()
-        SEnvironmentObject()
+//        SEnvironmentObject()
+        SAppStorage()
         
         
         
