@@ -55,7 +55,8 @@ struct ContentView: View {
 //        SSafeUnwrapping()
 //        SOnTapGesture()
 //        SModels()
-        SStateObjectAndObservableObject()
+//        SStateObjectAndObservableObject()
+        SEnvironmentObject()
         
         
         
