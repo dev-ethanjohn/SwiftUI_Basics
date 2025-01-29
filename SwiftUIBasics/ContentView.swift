@@ -50,7 +50,8 @@ struct ContentView: View {
 //        SStepper()
 //        SSlider()
 //        STabView()
-        SDarkMode()
+//        SDarkMode()
+        SOnAppearOnDisappear()
         
         
         
