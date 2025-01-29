@@ -49,7 +49,8 @@ struct ContentView: View {
 //        SDatePicker()
 //        SStepper()
 //        SSlider()
-        STabView()
+//        STabView()
+        SDarkMode()
         
         
         
