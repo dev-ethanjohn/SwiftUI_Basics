@@ -22,7 +22,7 @@ struct SAsyncImage: View {
             ProgressView()
         }
         
-        //if you wanted to handle failure fetching 
+        //if you wanted to handle failure fetching
         AsyncImage(url: url) { phase in
             switch phase {
             case .empty:
