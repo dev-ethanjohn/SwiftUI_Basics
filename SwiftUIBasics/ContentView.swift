@@ -54,7 +54,8 @@ struct ContentView: View {
 //        SOnAppearOnDisappear()
 //        SSafeUnwrapping()
 //        SOnTapGesture()
-        SModels()
+//        SModels()
+        SStateObjectAndObservableObject()
         
         
         
