@@ -52,7 +52,8 @@ struct ContentView: View {
 //        STabView()
 //        SDarkMode()
 //        SOnAppearOnDisappear()
-        SSafeUnwrapping()
+//        SSafeUnwrapping()
+        SOnTapGesture()
         
         
         
