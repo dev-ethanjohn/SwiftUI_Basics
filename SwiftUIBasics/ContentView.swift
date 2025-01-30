@@ -65,7 +65,8 @@ struct ContentView: View {
 //        SButtonStyleAndControlSize()
 //        SListSwipeActions()
 //        SBadge()
-        SFocusState()
+//        SFocusState()
+        SKeyboardSubmit()
         
         
         

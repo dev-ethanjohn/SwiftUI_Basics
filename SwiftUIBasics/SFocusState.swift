@@ -56,10 +56,6 @@ struct SFocusState: View {
             } label: {
                 Text("Sign up")
             }
-            
-            
-
-
         }
         .padding(40)
 //        .onAppear {
