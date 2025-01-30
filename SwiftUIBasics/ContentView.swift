@@ -66,7 +66,8 @@ struct ContentView: View {
 //        SListSwipeActions()
 //        SBadge()
 //        SFocusState()
-        SKeyboardSubmit()
+//        SKeyboardSubmit()
+        SNavigationStack()
         
         
         
