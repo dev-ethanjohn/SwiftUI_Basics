@@ -67,7 +67,8 @@ struct ContentView: View {
 //        SBadge()
 //        SFocusState()
 //        SKeyboardSubmit()
-        SNavigationStack()
+//        SNavigationStack()
+        SSafeAreaInsets()
         
         
         
